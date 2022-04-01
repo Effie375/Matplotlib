@@ -8,7 +8,7 @@ import numpy as np
 
 ypoints = np.array([3, 8, 1, 10])
 
-plt.plot(ypoints, c = 'hotpink')
+plt.plot(ypoints, linewidth = '20.5')
 plt.show()
 
 #Two  lines to make our compiler able to draw:
