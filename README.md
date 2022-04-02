@@ -9,7 +9,7 @@
 
 ## Πού βρίσκεται το Matplotlib Codebase;
 
-Ο πηγαίος κώδικας για το Matplotlib βρίσκεται σε αυτό το αποθετήριο github https://github.com/matplotlib/matplotlib
+Ο πηγαίος κώδικας για το Matplotlib βρίσκεται στο github https://github.com/matplotlib/matplotlib.
 
 ## Εγκατάσταση του Matplotlib
 
