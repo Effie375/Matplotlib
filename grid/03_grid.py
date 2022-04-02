@@ -1,8 +1,3 @@
-#Three lines to make our compiler able to draw:
-import sys
-import matplotlib
-matplotlib.use('Agg')
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -14,11 +9,5 @@ plt.xlabel("Average Pulse")
 plt.ylabel("Calorie Burnage")
 
 plt.plot(x, y)
-
 plt.grid(axis = 'y')
-
 plt.show()
-
-#Two  lines to make our compiler able to draw:
-plt.savefig(sys.stdout.buffer)
-sys.stdout.flush()
