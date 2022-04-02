@@ -1,4 +1,4 @@
-![Matplotlib](https://ecshackweek.github.io/img/tutorials/python-packages/matplotlib.png)
+![Matplotlib](logo.PNG)
 
 ## Τι είναι το Matplotlib;
 
